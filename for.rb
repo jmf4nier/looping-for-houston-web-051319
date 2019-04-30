@@ -6,4 +6,4 @@ def using_for(shoe)
 	end
 end
 
-using_for
+using_for(shoe)
